@@ -7,3 +7,6 @@
 [submodule ".submodules/PythonDataScienceHandbook"]
 	path = .submodules/PythonDataScienceHandbook
 	url = https://github.com/jakevdp/PythonDataScienceHandbook
+[submodule ".submodules/python-data-viz-workshop"]
+	path = .submodules/python-data-viz-workshop
+	url = https://github.com/stefmolin/python-data-viz-workshop
