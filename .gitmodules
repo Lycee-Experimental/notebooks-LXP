@@ -16,3 +16,6 @@
 [submodule ".submodules/leafmap"]
 	path = .submodules/leafmap
 	url = https://github.com/opengeos/leafmap
+[submodule ".submodules/folium"]
+	path = .submodules/folium
+	url = https://github.com/python-visualization/folium
