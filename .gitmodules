@@ -1,0 +1,9 @@
+[submodule ".submodules/The-Python-Graph-Gallery"]
+	path = .submodules/The-Python-Graph-Gallery
+	url = https://github.com/holtzy/The-Python-Graph-Gallery/
+[submodule ".submodules/scientific-python-lectures"]
+	path = .submodules/scientific-python-lectures
+	url = https://github.com/jrjohansson/scientific-python-lectures
+[submodule ".submodules/PythonDataScienceHandbook"]
+	path = .submodules/PythonDataScienceHandbook
+	url = https://github.com/jakevdp/PythonDataScienceHandbook
