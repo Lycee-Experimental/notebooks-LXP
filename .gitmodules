@@ -13,3 +13,6 @@
 [submodule ".submodules/earthengine-py-notebooks"]
 	path = .submodules/earthengine-py-notebooks
 	url = https://github.com/giswqs/earthengine-py-notebooks
+[submodule ".submodules/leafmap"]
+	path = .submodules/leafmap
+	url = https://github.com/opengeos/leafmap
