@@ -10,3 +10,6 @@
 [submodule ".submodules/python-data-viz-workshop"]
 	path = .submodules/python-data-viz-workshop
 	url = https://github.com/stefmolin/python-data-viz-workshop
+[submodule ".submodules/earthengine-py-notebooks"]
+	path = .submodules/earthengine-py-notebooks
+	url = https://github.com/giswqs/earthengine-py-notebooks
