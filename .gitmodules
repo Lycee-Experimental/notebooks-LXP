@@ -19,3 +19,6 @@
 [submodule ".submodules/folium"]
 	path = .submodules/folium
 	url = https://github.com/python-visualization/folium
+[submodule ".submodules/python-datascientist-notebooks"]
+	path = .submodules/python-datascientist-notebooks
+	url = https://github.com/linogaliana/python-datascientist-notebooks
